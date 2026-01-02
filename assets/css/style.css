@@ -176,12 +176,6 @@ h2 {
   pointer-events: auto;
 }
 
-.nav:hover .nav-links {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0) scale(1);
-  pointer-events: auto;
-}
 
 .nav-links a {
   font-size: 0.95rem;
@@ -199,10 +193,6 @@ h2 {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 212, 255, 0.6);
 }
-
-
-
-
 /* Hero content */
 
 .hero-content {
@@ -269,8 +259,6 @@ h2 {
   transform: translateY(-1px);
   box-shadow: 0 22px 55px #00d4ff;
 }
-
-
 
 .btn.full-width {
   width: 100%;
